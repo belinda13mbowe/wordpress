@@ -1,0 +1,1029 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "MedicaLife \u2013 Health Care and Medical Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.baliniz.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Appointment",
+            "screenshot": "screenshots\/metform-appointment.jpg",
+            "source": "templates\/metform-appointment.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/metform-appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Appointment",
+            "screenshot": "screenshots\/appointment.jpg",
+            "source": "templates\/appointment.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Doctor",
+            "screenshot": "screenshots\/our-doctor.jpg",
+            "source": "templates\/our-doctor.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/our-doctor\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Help & FAQ",
+            "screenshot": "screenshots\/help-faq.jpg",
+            "source": "templates\/help-faq.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/help-faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/medicalife\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.1.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.11.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "medical-doctors-at-the-conference-E49QVN6.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/05\/medical-doctors-at-the-conference-E49QVN6-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 184409,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E49QVN6"
+        },
+        {
+            "filename": "bg-health.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/07\/bg-health-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 126332,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/healthcare-medical-science-elegant-background_9191747.htm"
+        },
+        {
+            "filename": "diverse-medical-team-of-doctors-looking-at-camera-while-holding-clipboard-and-medical-files-e1623252244361.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/05\/diverse-medical-team-of-doctors-looking-at-camera-while-holding-clipboard-and-medical-files-800x502.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 200684,
+            "dimensions": [
+                1920,
+                1206
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UW9F7DT"
+        },
+        {
+            "filename": "confident-doctor-shaking-patient-s-hand-e1623252367541.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/confident-doctor-shaking-patient-s-hand-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 201409,
+            "dimensions": [
+                1920,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6ZD2WAB"
+        },
+        {
+            "filename": "eye.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/08\/eye.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5908,
+            "dimensions": [
+                300,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WXDFW9G"
+        },
+        {
+            "filename": "chekk.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/08\/chekk.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7119,
+            "dimensions": [
+                300,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WXDFW9G"
+        },
+        {
+            "filename": "totth-WXDFW9G.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/08\/totth-WXDFW9G.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6273,
+            "dimensions": [
+                252,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WXDFW9G"
+        },
+        {
+            "filename": "cardio.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/08\/cardio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7128,
+            "dimensions": [
+                300,
+                271
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WXDFW9G"
+        },
+        {
+            "filename": "medicine.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/08\/medicine.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5762,
+            "dimensions": [
+                270,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WXDFW9G"
+        },
+        {
+            "filename": "vaccine-WXDFW9G.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/08\/vaccine-WXDFW9G.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3950,
+            "dimensions": [
+                270,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WXDFW9G"
+        },
+        {
+            "filename": "group-of-doctors-standing-in-corridor-on-medical-conference-e1623252293962.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/05\/group-of-doctors-standing-in-corridor-on-medical-conference-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/our-doctor.json",
+                    "name": "Our Doctor"
+                }
+            ],
+            "filesize": 214878,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q3H8KZ3"
+        },
+        {
+            "filename": "team-of-doctors-having-meeting-in-medical-office-e1628001833521.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/05\/team-of-doctors-having-meeting-in-medical-office-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/our-doctor.json",
+                    "name": "Our Doctor"
+                }
+            ],
+            "filesize": 184804,
+            "dimensions": [
+                1920,
+                1276
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-24TWHC6"
+        },
+        {
+            "filename": "bg-health-2.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/07\/bg-health-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 285762,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/medical-technology-science-background-vector-blue-with-blank-space_16395970.htm"
+        },
+        {
+            "filename": "group-of-doctors-standing-in-hospital-on-medical-conference--e1623252324858.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/05\/group-of-doctors-standing-in-hospital-on-medical-conference--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 252026,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXG2Z2J"
+        },
+        {
+            "filename": "bg-health-3.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/07\/bg-health-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 60066,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/medical-healthcare-background-with-cardiograph-line_8776542.htm"
+        },
+        {
+            "filename": "MKLVKTE.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/MKLVKTE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 59237,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MKLVKTE"
+        },
+        {
+            "filename": "UUFGSJH.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/UUFGSJH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 57515,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UUFGSJH"
+        },
+        {
+            "filename": "3SUMAU.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/3SUMAU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 56794,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3SUMAU"
+        },
+        {
+            "filename": "team-of-experienced-medical-staff-e1623252381361.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/team-of-experienced-medical-staff-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/help-faq.json",
+                    "name": "Help & FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 217712,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6CQ4HBD"
+        },
+        {
+            "filename": "medical-doctors-at-the-conference-1.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/05\/medical-doctors-at-the-conference-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 256022,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MZKGJTP"
+        },
+        {
+            "filename": "working-doctor-2CHWSKM.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/working-doctor-2CHWSKM-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-doctor.json",
+                    "name": "Our Doctor"
+                }
+            ],
+            "filesize": 126575,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2CHWSKM"
+        },
+        {
+            "filename": "nurse-in-uniform-TEMZTNK.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/nurse-in-uniform-TEMZTNK-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-doctor.json",
+                    "name": "Our Doctor"
+                }
+            ],
+            "filesize": 117238,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TEMZTNK"
+        },
+        {
+            "filename": "team.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/team-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-doctor.json",
+                    "name": "Our Doctor"
+                }
+            ],
+            "filesize": 120251,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6K3G2JT"
+        },
+        {
+            "filename": "image-circle.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/image-circle.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4558,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6K3G2JT"
+        },
+        {
+            "filename": "medical-doctors-at-the-conference-e1623252234119.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/05\/medical-doctors-at-the-conference-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/our-doctor.json",
+                    "name": "Our Doctor"
+                }
+            ],
+            "filesize": 180469,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ETN6CQR"
+        },
+        {
+            "filename": "doctor-and-patient-e1623252340540.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/doctor-and-patient-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 138080,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5GRSMUV"
+        },
+        {
+            "filename": "professional-medical-team-e1623252208764.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/05\/professional-medical-team-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 167201,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HM9QJMX"
+        },
+        {
+            "filename": "doctor-at-hospital-A4ZVDTT.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/doctor-at-hospital-A4ZVDTT-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-doctor.json",
+                    "name": "Our Doctor"
+                }
+            ],
+            "filesize": 152221,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A4ZVDTT"
+        },
+        {
+            "filename": "smiling-mature-senior-doctor-physician-standing-in-9AR35UM.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/smiling-mature-senior-doctor-physician-standing-in-9AR35UM-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-doctor.json",
+                    "name": "Our Doctor"
+                }
+            ],
+            "filesize": 138337,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9AR35UM"
+        },
+        {
+            "filename": "handsome-and-confident-young-doctor-in-white-coat-D2PKNW8.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/handsome-and-confident-young-doctor-in-white-coat-D2PKNW8-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-doctor.json",
+                    "name": "Our Doctor"
+                }
+            ],
+            "filesize": 155387,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D2PKNW8"
+        },
+        {
+            "filename": "doctor-and-nurse-discussing-patients-tests-at-tablet-computer-in-hospital-e1623252356374.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/doctor-and-nurse-discussing-patients-tests-at-tablet-computer-in-hospital-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/help-faq.json",
+                    "name": "Help & FAQ"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 153258,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-72RG5JM"
+        },
+        {
+            "filename": "smiling-nurse-with-laptop-scheduling-appointment-for-male-patient-at-reception-e1623252408422.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/smiling-nurse-with-laptop-scheduling-appointment-for-male-patient-at-reception-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 165291,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWGXREF"
+        },
+        {
+            "filename": "filling-in-medical-form-e1623252219307.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/05\/filling-in-medical-form-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 141878,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8DY5MRU"
+        },
+        {
+            "filename": "logo-medicalife.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/logo-medicalife-800x180.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 22846,
+            "dimensions": [
+                1722,
+                388
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/gradient-nurse-logos-pack_14140002.htm"
+        },
+        {
+            "filename": "footer-medicalife.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/medicalife\/wp-content\/uploads\/sites\/10\/2021\/06\/footer-medicalife-800x181.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 21796,
+            "dimensions": [
+                1722,
+                389
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/gradient-nurse-logos-pack_14140002.htm"
+        }
+    ]
+}

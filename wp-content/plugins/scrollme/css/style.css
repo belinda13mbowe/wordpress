@@ -1,0 +1,22 @@
+
+.animateme{
+    position: absolute;
+}
+
+.scrollme{
+    position: relative;
+    height: auto;
+    text-align: center;
+}
+
+
+ .scrollme-center-el{
+    position: relative !important;
+    overflow: hidden;
+    left: 0 !important;
+    right: 0 !important;
+}
+
+
+
+

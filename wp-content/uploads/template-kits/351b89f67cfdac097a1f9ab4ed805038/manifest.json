@@ -1,0 +1,889 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Umi - Web Design Agency Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template.coomb.co",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Alt Footer",
+            "screenshot": "screenshots\/alt-footer.jpg",
+            "source": "templates\/alt-footer.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/?elementor_library=alt-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Alt Header",
+            "screenshot": "screenshots\/alt-header.jpg",
+            "source": "templates\/alt-header.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/?elementor_library=alt-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Archive",
+            "screenshot": "screenshots\/blog-archive.jpg",
+            "source": "templates\/blog-archive.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/?elementor_library=blog-archive-2",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/?elementor_library=single-blog",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Main Header",
+            "screenshot": "screenshots\/main-header.jpg",
+            "source": "templates\/main-header.json",
+            "preview_url": "https:\/\/template.coomb.co\/umi\/?elementor_library=main-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.1.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "umi-photo-6.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-photo-6-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 152474,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asia-young-businesswoman-using-digital-tablet-talk-XAMBE5Y"
+        },
+        {
+            "filename": "umi-mask-icon-8@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-8@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1274,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "umi-mask-icon-6@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-6@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1107,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "umi-mask-icon-14@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-14@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 480,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "umi-mask-icon-13@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-13@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1134,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "umi-mask-icon-9@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-9@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 771,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "umi-mask-icon-10@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-10@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1064,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "cover-gradient_optimized.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/cover-gradient_optimized-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/blog-archive.json",
+                    "name": "Blog Archive"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 40406,
+            "dimensions": [
+                1921,
+                1081
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "umi-photo-7.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-photo-7-800x640.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 123749,
+            "dimensions": [
+                1533,
+                1226
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-entrepreneur-67PYKBS"
+        },
+        {
+            "filename": "umi-photo-2.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-photo-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 131852,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-brainstorming-happy-business-people-desig-5KMLTT7"
+        },
+        {
+            "filename": "um-reviewer-1.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/um-reviewer-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 43340,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-smiling-man-studio-portrait-PVYJ6ZE"
+        },
+        {
+            "filename": "um-reviewer-2.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/um-reviewer-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 47774,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-woman-in-a-gray-plaid-dress-BX95XQ7"
+        },
+        {
+            "filename": "umi-photo-1.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-photo-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 132601,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/young-creative-team-having-a-meeting-in-creative-o-QKYCGT6"
+        },
+        {
+            "filename": "umi-photo-4.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-photo-4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 139555,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiracial-group-of-young-people-in-casual-wear-d-A95TJ7H"
+        },
+        {
+            "filename": "umi-logo-2-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-logo-2-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2716,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-1-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-logo-1-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1434,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-8-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-logo-8-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1442,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-7-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-logo-7-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2023,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-6-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-logo-6-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2047,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-5-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-logo-5-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2023,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-4-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-logo-4-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1965,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-logo-3-80.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-logo-3-80.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1689,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "umi-photo-3.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-photo-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 129457,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-team-in-the-office-PDNVMNH"
+        },
+        {
+            "filename": "umi-photo-9.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-photo-9-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 143443,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-in-front-of-white-board-gives-pres-93Z9XDS"
+        },
+        {
+            "filename": "umi-photo-8.jpg",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-photo-8-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 129693,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-of-a-colleagues-handshake-7BREAL7"
+        },
+        {
+            "filename": "umi-mask-icon-20@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-20@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1105,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "umi-mask-icon-3@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-3@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1455,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "umi-mask-icon-1@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-1@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 876,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "umi-mask-icon-2@4x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/05\/umi-mask-icon-2@4x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1315,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/startup-business-icon-pack-PBSD664"
+        },
+        {
+            "filename": "umi-logo@0.5x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/01\/umi-logo@0.5x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/alt-footer.json",
+                    "name": "Alt Footer"
+                }
+            ],
+            "filesize": 1808,
+            "dimensions": [
+                163,
+                69
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "umi-light@0.5x-8.png",
+            "thumbnail_url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/01\/umi-light@0.5x-8.png",
+            "templates": [
+                {
+                    "source": "templates\/alt-header.json",
+                    "name": "Alt Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1804,
+            "dimensions": [
+                163,
+                69
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "version": "0.4",
+    "title": "Alt Header",
+    "type": "header",
+    "metadata": {
+        "template_type": "section-header",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "header",
+        "additional_template_information": [
+            "This is a \"Header\" template for Elementor Pro."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "50f6b8f5",
+            "settings": {
+                "structure": "21",
+                "border_border": "solid",
+                "border_width": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "01",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "border_color": "#E1E1E1",
+                "content_position": "middle",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "281f8bf",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 15,
+                        "_inline_size_mobile": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "56c1ae9d",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/template.coomb.co\/umi\/wp-content\/uploads\/sites\/11\/2021\/01\/umi-light@0.5x-8.png",
+                                    "id": 20
+                                },
+                                "width": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3916282b",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": 84.665,
+                        "_inline_size_mobile": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "47277757",
+                            "settings": {
+                                "align_items": "right",
+                                "pointer": "none",
+                                "indicator": "angle",
+                                "full_width": "stretch",
+                                "toggle_align": "right",
+                                "dropdown_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "dropdown_box_shadow_box_shadow_type": "yes",
+                                "dropdown_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 5,
+                                    "blur": 10,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "padding_vertical_dropdown_item_tablet": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "toggle_size_mobile": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color_menu_item": "globals\/colors?id=3c0ecd5",
+                                    "background_color_dropdown_item_hover": "globals\/colors?id=secondary",
+                                    "color_dropdown_item_hover": "globals\/colors?id=3c0ecd5",
+                                    "toggle_background_color": "globals\/colors?id=primary",
+                                    "toggle_background_color_hover": "globals\/colors?id=primary",
+                                    "toggle_color_hover": "globals\/colors?id=accent",
+                                    "toggle_color": "globals\/colors?id=3c0ecd5",
+                                    "background_color_dropdown_item": "globals\/colors?id=primary",
+                                    "color_dropdown_item": "globals\/colors?id=3c0ecd5"
+                                },
+                                "dropdown_border_radius_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "nav-menu",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
